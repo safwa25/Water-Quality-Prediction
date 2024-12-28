@@ -10,4 +10,7 @@ health effects and health care costs outweigh the costs
 of undertaking the interventions. This classification 
 project involves building a model to evaluate water 
 potability using the following Water Quality dataset. 
+
+
+
 ![Water Quality Prediction](https://github.com/safwa25/Water-Quality-Prediction/blob/main/Blue%20Illustrative%20World%20Water%20Day%20Instagram%20Post.png)
